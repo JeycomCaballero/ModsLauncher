@@ -1,13 +1,45 @@
 {
   "version": "1.0.0",
-  "archivosOficiales": [
-    "mods/entity_texture_features-7.1.1-26.2-fabric.jar",
-    "mods/entity_model_features-3.2.6-26.2-fabric.jar",
-    "mods/CameraOverhaul-v2.1.1-fabric+mc[26.1-...jar", 
-    "mods/notenoughanimations-fabric-1.12.4-mc2...jar",
-    "mods/skinlayers3d-fabric-1.11.2-mc26.2.jar",
-    "mods/firstperson-fabric-2.7.2-mc26.2.jar",
-    "resourcepacks/FA+Player-v1.1.zip",
-    "resourcepacks/FreshAnimations_v1.10.5.zip"
+  "archivos": [
+    {
+      "rutaDestino": "mods/entity_texture_features-7.1.1-26.2-fabric.jar",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/entity_texture_features-7.1.1-26.2-fabric.jar",
+      "hash": "f469bc914302a13a5c767296623df60fb0cc3d4e4a02a77c56541a733ad36e3a"
+    },
+    {
+      "rutaDestino": "mods/entity_model_features-3.2.6-26.2-fabric.jar",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/entity_model_features-3.2.6-26.2-fabric.jar",
+      "hash": "876a3e4ffda021a6266df87208f2d9980322cf86223d4fe1e313ca996631f115"
+    },
+    {
+      "rutaDestino": "mods/CameraOverhaul-v2.1.1-fabric+mc.26.1-plus.-downgrade.jar",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/CameraOverhaul-v2.1.1-fabric+mc.26.1-plus.-downgrade.jar",
+      "hash": "e5143cc41a492ec63faceff6c50407715641f45f13b9eb3ee3171b0f1f38ef28"
+    },
+    {
+      "rutaDestino": "mods/notenoughanimations-fabric-1.12.4-mc26.2.jar",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/notenoughanimations-fabric-1.12.4-mc26.2.jar",
+      "hash": "8533f2a27ce9cfed184859f4fa33c48a29fd91830a5a2d922a8a6e34be7770f3"
+    },
+    {
+      "rutaDestino": "mods/skinlayers3d-fabric-1.11.2-mc26.2.jar",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/skinlayers3d-fabric-1.11.2-mc26.2.jar",
+      "hash": "3b553acd510f3395b00ca1c26b5bb2e990c420a415350aec84d0f4255f3ca0a5"
+    },
+    {
+      "rutaDestino": "mods/firstperson-fabric-2.7.2-mc26.2.jar",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/firstperson-fabric-2.7.2-mc26.2.jar",
+      "hash": "0bec2670484e134abff40df717e86009cd66331e0e57581f5c91a9ad52673843"
+    },
+    {
+      "rutaDestino": "resourcepacks/FA+Player-v1.1.zip",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/FA+Player-v1.1.zip",
+      "hash": "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
+    },
+    {
+      "rutaDestino": "resourcepacks/FreshAnimations_v1.10.5.zip",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/FreshAnimations_v1.10.5.zip",
+      "hash": "cf9f17a2977e171b33cb0b598bc4357dd0383e09c10d5f768ff17c12d0a028ee"
+    }
   ]
 }
