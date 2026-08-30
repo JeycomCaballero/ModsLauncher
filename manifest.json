@@ -14,7 +14,7 @@
     {
       "rutaDestino": "mods/cloth-config-26.2.155.jar",
       "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/cloth-config-26.2.155.jar",
-      "hash": "sha256:def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349"
+      "hash": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349"
     },
     {
       "rutaDestino": "mods/entity_model_features-3.2.6-26.2-fabric.jar",
