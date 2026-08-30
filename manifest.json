@@ -42,6 +42,31 @@
       "hash": "0bec2670484e134abff40df717e86009cd66331e0e57581f5c91a9ad52673843"
     },
     {
+      "rutaDestino": "mods/lithium-fabric-0.25.3+mc26.2.jar",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/lithium-fabric-0.25.3+mc26.2.jar",
+      "hash": "fdde92e238e8075f89ad7f701f2a3d5854af88ba9a67657184a4407b104ac563"
+    },
+    {
+      "rutaDestino": "mods/sodium-fabric-0.9.1+mc26.2.jar",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/sodium-fabric-0.9.1+mc26.2.jar",
+      "hash": "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b"
+    },
+    {
+      "rutaDestino": "mods/ferritecore-9.0.0-fabric.jar",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/ferritecore-9.0.0-fabric.jar",
+      "hash": "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22"
+    },
+    {
+      "rutaDestino": "mods/ImmediatelyFast-Fabric-1.16.4+26.2.jar",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/ImmediatelyFast-Fabric-1.16.4+26.2.jar",
+      "hash": "c5ed022ebce7f46606cbd20a0a725787627f5ce486da5a602c9cda496f1aeb69"
+    },
+    {
+      "rutaDestino": "mods/krypton-0.3.1.jar",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/krypton-0.3.1.jar",
+      "hash": "5ea8901561973d29e51e751469d52d92100f348ab461e1186f67012e93420c48"
+    },
+    {
       "rutaDestino": "resourcepacks/FA+Player-v1.1.zip",
       "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/FA+Player-v1.1.zip",
       "hash": "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
