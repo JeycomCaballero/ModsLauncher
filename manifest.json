@@ -67,6 +67,11 @@
       "hash": "5ea8901561973d29e51e751469d52d92100f348ab461e1186f67012e93420c48"
     },
     {
+      "rutaDestino": "mods/iris-fabric-1.11.2+mc26.2.jar",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/iris-fabric-1.11.2+mc26.2.jar",
+      "hash": "df0e2ccddaea17b191eda32b21c979e131bc9d4ef4f831113b50b461fc4a3804"
+    },
+    {
       "rutaDestino": "resourcepacks/FA+Player-v1.1.zip",
       "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/FA+Player-v1.1.zip",
       "hash": "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
