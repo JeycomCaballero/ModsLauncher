@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "archivosOficiales": [
+    "mods/entity_texture_features-7.1.1-26.2-fabric.jar",
+    "mods/entity_model_features-3.2.6-26.2-fabric.jar",
+    "mods/CameraOverhaul-v2.1.1-fabric+mc[26.1-...jar", 
+    "mods/notenoughanimations-fabric-1.12.4-mc2...jar",
+    "mods/skinlayers3d-fabric-1.11.2-mc26.2.jar",
+    "mods/firstperson-fabric-2.7.2-mc26.2.jar",
+    "resourcepacks/FA+Player-v1.1.zip",
+    "resourcepacks/FreshAnimations_v1.10.5.zip"
+  ]
+}
