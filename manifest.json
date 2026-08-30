@@ -75,6 +75,11 @@
       "rutaDestino": "resourcepacks/FreshAnimations_v1.10.5.zip",
       "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/FreshAnimations_v1.10.5.zip",
       "hash": "cf9f17a2977e171b33cb0b598bc4357dd0383e09c10d5f768ff17c12d0a028ee"
+    },
+    {
+      "rutaDestino": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
+      "urlDescarga": "https://github.com/JeycomCaballero/ModsLauncher/releases/download/v1.0.0/ComplementaryReimagined_r5.8.1.zip",
+      "hash": "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
     }
   ]
 }
